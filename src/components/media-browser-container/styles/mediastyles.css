@@ -1,0 +1,29 @@
+.media-item{
+	height:120px;
+	width: 180px;
+	color: white;
+}
+.duration{
+ 	padding:1px;
+ 	text-align: center;
+ 	vertical-align: bottom;
+ 	font-size: 85%;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.bg-black{
+	background-color: black;
+}
+
+.bg-opaque{
+	opacity: 0.5;
+}
+
+.bottom { 
+	position:absolute;                  
+	bottom:0;                          
+	left:0;                        
+} 

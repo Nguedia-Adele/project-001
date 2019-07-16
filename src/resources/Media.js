@@ -1,0 +1,27 @@
+const Media = [
+	{id:"1", imageUrl:"https://placeimg.com/640/480/people", alternative:"media title", timestamp:"00:07:30", description:"This is a card" },
+	{id:"2", imageUrl:"https://placeimg.com/640/480/animals", alternative:"media title", timestamp:"00:05:00", description:"This is another card" },
+	{id:"3", imageUrl:"https://placeimg.com/640/480/tech", alternative:"media title", timestamp:"00:14:10", description:"This is an image card" },
+	{id:"4", imageUrl:"https://placeimg.com/640/480/nature", alternative:"media title", timestamp:"00:15:20", description:"This is a subtitle" },
+	{id:"5", imageUrl:"https://placeimg.com/640/480/people", alternative:"media title", timestamp:"00:08:40", description:"This is a card with subtitle" },
+	{id:"6", imageUrl:"https://placeimg.com/640/480/animals", alternative:"media title", timestamp:"00:32:24", description:"This is a card" },
+	{id:"7", imageUrl:"https://placeimg.com/640/480/tech", alternative:"media title", timestamp:"00:33:42", description:"This is an another card" ,},
+	{id:"8", imageUrl:"https://placeimg.com/640/480/nature", alternative:"media title", timestamp:"00:12:30", description:"This is an image card" },
+	{id:"9", imageUrl:"https://placeimg.com/640/480/people", alternative:"media title", timestamp:"00:24:56", description:"This is a subtitle" },
+	{id:"10", imageUrl:"https://placeimg.com/640/480/animals", alternative:"media title", timestamp:"00:33:45", description:"This is a card with subtitle" },
+	{id:"11", imageUrl:"https://placeimg.com/640/480/tech", alternative:"media title", timestamp:"02:07:30", description:"This is a card" ,},
+	{id:"12", imageUrl:"https://placeimg.com/640/480/nature", alternative:"media title", timestamp:"00:57:50", description:"This is an image card" },{id:"1", imageUrl:"https://placeimg.com/640/480/people", alternative:"media title", timestamp:"00:07:30", description:"This is a card" },
+	{id:"2", imageUrl:"https://placeimg.com/640/480/animals", alternative:"media title", timestamp:"00:05:00", description:"This is another card" },
+	{id:"3", imageUrl:"https://placeimg.com/640/480/tech", alternative:"media title", timestamp:"00:14:10", description:"This is an image card" },
+	{id:"4", imageUrl:"https://placeimg.com/640/480/nature", alternative:"media title", timestamp:"00:15:20", description:"This is a subtitle" },
+	{id:"5", imageUrl:"https://placeimg.com/640/480/people", alternative:"media title", timestamp:"00:08:40", description:"This is a card with subtitle" },
+	{id:"6", imageUrl:"https://placeimg.com/640/480/animals", alternative:"media title", timestamp:"00:32:24", description:"This is a card" },
+	{id:"7", imageUrl:"https://placeimg.com/640/480/tech", alternative:"media title", timestamp:"00:33:42", description:"This is an another card" ,},
+	{id:"8", imageUrl:"https://placeimg.com/640/480/nature", alternative:"media title", timestamp:"00:12:30", description:"This is an image card" },
+	{id:"9", imageUrl:"https://placeimg.com/640/480/people", alternative:"media title", timestamp:"00:24:56", description:"This is a subtitle" },
+	{id:"10", imageUrl:"https://placeimg.com/640/480/animals", alternative:"media title", timestamp:"00:33:45", description:"This is a card with subtitle" },
+	{id:"11", imageUrl:"https://placeimg.com/640/480/tech", alternative:"media title", timestamp:"02:07:30", description:"This is a card" ,},
+	{id:"12", imageUrl:"https://placeimg.com/640/480/nature", alternative:"media title", timestamp:"00:57:50", description:"This is an image card" },
+]
+
+export default Media
