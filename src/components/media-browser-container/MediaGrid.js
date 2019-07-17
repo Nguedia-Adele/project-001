@@ -4,7 +4,7 @@ import MediaList from './MediaList'
 
 function MediaGrid(){
 	return(
-		<div className="pt-3 bg-dark">
+		<div className="pt-3" style={{backgroundColor:"#4f4f4f"}} >
 			<SearchBar/>
 			<hr/>
 			<MediaList/>

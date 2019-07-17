@@ -6,28 +6,27 @@ function Header(){
 		<div className="bg-dark"> 
 			<ul className="nav nav-tabs">
 				<li className="nav-item mx-2">
-					<li className="nav-link active">
+					<a className="nav-link active" href="https://www.w3schools.com/">
 						<MaterialIcon icon="star" size="small"/>
-					</li>
-				{/*replace li elements surrounding icons with anchor tags and add href*/}
+					</a>
 				</li>
 
 				<li className="nav-item mx-2">
-					<li className="nav-link">
-						<MaterialIcon icon="video_library" size="small" color="#fff"/>
-					</li>
+					<a className="nav-link" href="https://www.w3schools.com/">
+						<MaterialIcon icon="video_library" size="small" color="#f8f9fa"/>
+					</a>
 				</li>
 
 				<li className="nav-item mx-2">
-					<li className="nav-link">
-						<MaterialIcon icon="collections" size="small" color="#fff"/>
-					</li>
+					<a className="nav-link" href="https://www.w3schools.com/">
+						<MaterialIcon icon="collections" size="small" color="#f8f9fa"/>
+					</a>
 				</li>
 
 				<li className="nav-item mx-2">
-					<li className="nav-link disabled">
-						<MaterialIcon icon="filter" size="small" color="#fff"/>
-					</li>
+					<a className="nav-link" href="https://www.w3schools.com/">
+						<MaterialIcon icon="filter" size="small" color="#f8f9fa"/>
+					</a>
 				</li>
 			</ul>
 		</div>

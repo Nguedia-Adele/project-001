@@ -1,6 +1,6 @@
 /*nav bar items*/
 .dropbtn{
-	color: white;
+	color: #212529;
 }
 
 li.dropdown {
@@ -33,4 +33,8 @@ li.dropdown {
 .vl {
   border-left: 1px solid black;
   height: 25px;
+}
+
+.bg-lightish{
+  background-color: #a8d2e3
 }

@@ -1,0 +1,22 @@
+.video-container{
+    height:350px;
+    overflow: hidden;
+}
+
+.video-player{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+/*.videoInsert {
+    position: absolute; 
+    right: 0; 
+    bottom: 0;
+    width: auto; 
+    height: 350px; 
+    z-index: -100;
+    background-size: cover;
+    overflow: hidden;
+}*/

@@ -31,3 +31,23 @@
     transform: rotate(360deg);
   }
 }
+
+.overflowY {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/*
+.custom-scrollbar::-webkit-scrollbar {
+  width: 1px;
+}
+.custom-scrollbar::-webkit-scrollbar-track { 
+  background : #555999;
+  border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb { 
+  background : rgba(255,255,255,0.5);
+  border-radius: 10px;
+  box-shadow:  0 0 6px rgba(0, 0, 0, 0.5);
+}
+*/
