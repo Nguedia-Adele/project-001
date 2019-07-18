@@ -4,21 +4,23 @@ import PanelGroup from 'react-panelgroup'
 import MediaBrowser from './components/media-browser-container/MediaBrowser'
 import MediaPlayer from './components/media-player-container/MediaPlayer'
 
+import TimeLine from './components/tl-container/TimeLine'
+
 import './App.css';
 
 function App() {
   return (
-    <div className="bg-dark">
-      <div style={{height:"350px"}}>
+    <div className="bg-dark h-100">
+      <div style={{height:"380px"}}>
         <PanelGroup>
-          <div className="overflowY" style={{minWidth:"700px"}} >
-            <MediaBrowser/>
-          </div>
-
-          <div style={{minWidth:"700px"}}><MediaPlayer/></div>
+          <div className="overflowY" ><MediaBrowser/></div>
+          <div><MediaPlayer/></div>
         </PanelGroup>
       </div>
-      <div>new div</div>
+
+      <div>
+        <TimeLine/>
+      </div>
     </div>
   );
 }

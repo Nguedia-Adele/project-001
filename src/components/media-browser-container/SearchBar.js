@@ -50,25 +50,6 @@ function SearchBar(){
 
 		      		<div className="vl"></div>
 
-					<div className="mx-2">
-						<div className="dropdown">
-							<a
-								className="dropbtn dropdown-toggle"
-								type="button"
-								href="https://www.w3schools.com/"
-								data-toggle="dropdown"
-								aria-haspopup="true"
-								aria-expanded="false">
-									All
-							</a>
-							<div className="dropdown-content" aria-labelledby="dropdownMenuButton">
-								<a className="dropdown-item" href="https://www.w3schools.com/">Action1</a>
-								<a className="dropdown-item" href="https://www.w3schools.com/">Action2</a>
-								<a className="dropdown-item" href="https://www.w3schools.com/">Action3</a>
-							</div>
-						</div>
-					</div>
-
 					<span className="px-2">
 						<MaterialIcon icon="favorite_border" size="small" color="#f50000" />
 					</span>
